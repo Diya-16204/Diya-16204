@@ -93,14 +93,15 @@ Hey! I'm **Shambhavi Mishra**, a Computer Science and Engineering student at **I
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Diya-16204&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diya-16204&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Diya-16204&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub stats"/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Diya-16204&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diya-16204&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages"/>
+
+<img src="https://ghchart.rshah.org/58a6ff/Diya-16204" width="95%" alt="GitHub contribution chart"/>
 
 </div>
 
